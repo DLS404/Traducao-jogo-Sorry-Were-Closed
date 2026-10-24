@@ -1,0 +1,1 @@
+# Tradu-o-do-jogo-Sorry-We-re-Closed
