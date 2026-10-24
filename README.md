@@ -84,6 +84,18 @@ Se preferir, você também pode simplesmente abrir uma Issue com suas sugestões
 - *Sorry We're Closed* e seus elementos originais pertencem aos seus respectivos criadores e detentores dos direitos.
 - Este projeto não possui vínculo oficial com os desenvolvedores ou distribuidores do jogo.
 
+## 🛡️ Aviso sobre o Windows Defender
+
+Ao executar o instalador, o Windows Defender ou o SmartScreen pode exibir um alerta de segurança. Isso pode acontecer com programas pouco conhecidos ou que não possuem assinatura digital reconhecida.
+
+**Esse alerta, por si só, não significa necessariamente que o arquivo seja malicioso.** No entanto, também não é possível garantir que um arquivo seja seguro apenas por ser um instalador de tradução.
+
+Se isso acontecer, recomendamos verificar se o arquivo foi baixado diretamente da seção [Releases](../../releases) deste repositório e conferir os resultados de uma verificação de segurança antes de executá-lo.
+
+Caso o antivírus identifique uma ameaça específica, não ignore o alerta automaticamente. Avise por meio da aba [Issues](../../issues) para que o problema possa ser investigado.
+
+A segurança de quem utiliza a tradução é importante, e qualquer relato desse tipo será bem-vindo.
+
 ## 💖 Agradecimentos
 
 Obrigado a todos que testarem a tradução, reportarem erros, sugerirem melhorias ou contribuírem com modificações.
